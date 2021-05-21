@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Notas
+comment1.params=estudiantes
+comment1.target=Notas(int)
+comment2.params=nota
+comment2.target=void\ addNotas(int)
+comment3.params=
+comment3.target=double\ promedio()
+comment4.params=
+comment4.target=double\ promedioAprobados()
+comment5.params=
+comment5.target=int\ cantidadReprobados()
+comment6.params=
+comment6.target=int\ cantidadAprobados()
+comment7.params=
+comment7.target=double\ notaMasAlta()
+numComments=8
